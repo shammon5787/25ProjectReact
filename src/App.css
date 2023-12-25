@@ -1,0 +1,35 @@
+#root {
+  max-width: 1200px;
+  margin: 0 auto;
+  /* padding: 2rem; */
+  text-align: center;
+}
+.display{
+  display: flex;
+  /* background-color: rgb(209, 202, 215) */
+  padding: 8px 20px;
+}
+.navlink{
+  padding: 9px 20px;
+  list-style: none;
+  text-decoration: none;
+  color: black;
+}
+.cartCount{
+  cursor: pointer;;
+}
+.images{
+  width: 100px;
+}
+.btn{
+  padding: 5px 12px;
+  margin-bottom: 15px;
+  background-color: blueviolet;
+  border-radius: 6px;
+  cursor: pointer;
+}
+.cart{
+  text-align: center;
+  padding: 20px;
+  /* background-color: blueviolet; */
+}
