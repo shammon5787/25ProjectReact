@@ -24,7 +24,7 @@ const Cart = () => {
               <button onClick={()=>hnadleRemove(product.id)} className='btn'>Remove Card</button>
             </div>
           ))
-        }
+        } sdfjsdf
       </div>
     </>
   )
